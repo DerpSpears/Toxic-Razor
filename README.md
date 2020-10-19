@@ -1,4 +1,4 @@
-#### 👋 Hi there! I'm 15 yo Developer and student.
+#### 👋 Hi there! I'm 17 year old Developer and student.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GhostRazor&show_icons=true&theme=radical)
 
