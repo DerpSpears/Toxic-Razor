@@ -4,8 +4,8 @@ Student & loves
 ### 🧰 My Toolbelt
 
 * <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
-* <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/html.png"> HTML
-* <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/css.png"> CSS
+* <img height="18" src="./512px-HTML5_logo_and_wordmark.svg.png"> HTML
+* <img height="18" src=""> CSS
 * <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js
 * <img height="18" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fmongodb-2-1175137.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fmongodb-2&tbnid=1TNp7Aoi3hpp5M&vet=12ahUKEwiJtfK_hd3uAhWGCSsKHXLuBeMQMygJegUIARCwAQ..i&docid=CAIeceuu-wEH3M&w=512&h=512&q=mongodb%20logo%20svg&ved=2ahUKEwiJtfK_hd3uAhWGCSsKHXLuBeMQMygJegUIARCwAQ"> MongoDB
 
