@@ -1,5 +1,5 @@
 **Hi, I'm Ghost Razor!**   
-Student & loves 
+Student & loves programming
 
 ### 🧰 My Toolbelt
 
