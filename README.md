@@ -4,6 +4,6 @@
 
 Contact me on my [Discord](https://discord.com/invite/fGssteh) server!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GhostRazor&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toxic-Razor&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostRazor&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxic-Razor&show_icons=true&hide_border=true" />
